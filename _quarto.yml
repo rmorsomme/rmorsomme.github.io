@@ -3,18 +3,41 @@ project:
   output-dir: docs
 
 website:
-  title: "personnal_webpage"
+  page-navigation: true
+  title: "Raphael Morsomme"
+  site-url: "https://rmorsomme.github.io/rmorsomme/"
+
+  repo-url: https://github.com/rmorsomme/rmorsomme
+  repo-actions: [edit, issue]
+
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)."
+    left: "&copy; Copyright 2022, Raphael Morsomme"
+    background: "#D9E3E4"
+
   navbar:
+    background: "#D9E3E4"
     left:
       - href: index.qmd
         text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
       - about.qmd
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme-dark.scss]
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
     toc: true
+    link-external-newwindow: true
+
+freeze: auto
 
 editor: visual
 
