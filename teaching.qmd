@@ -1,9 +1,45 @@
 ---
-title: "Teaching"
+title: "Teaching and Mentoring"
 ---
 
-About this site
+## Teaching
 
-```{r}
-1 + 1
-```
+-   Summer 2021 -- STA101 Data Analysis and Statistical Inference, Duke University
+
+-   [Summer 2022 -- STA101 Data Analysis and Statistical Inference, Duke University](https://rmorsomme.github.io/website/)
+
+## Teaching assistant
+
+-   2017 -- STA101, UCF
+
+-   2019 -- STA440 Case studies (undergraduate)
+
+-   2020 -- STA540 Case studies (masters)
+
+-   2021 -- STA732 Case studies (Ph.D.)
+
+-   2022 -- STA310 Generalized linear models
+
+## Workshop
+
+-   2018-present -- Introduction to `R` for , Maastricht University College ([slides](/documents/Intro to R.html))
+
+## Mentoring
+
+-   2022 -- recipient of the Outstanding Mentor of Undergraduate Research Award, Duke University Department of Statistical Science
+
+-   2021-present -- academic mentor of J. Huang, recipient of the Faculty Scholars Award for Excellence in Research, the highest distinction offered by Duke University for undergraduate research
+
+-   2021-present -- tutor for SPIRE Fellows Program, Duke University
+
+-   2019-2020-- research mentor at Lumiere Education
+
+::: callout-important
+## Questions
+
+-   Does the CCT belong here?
+
+-   Does an academic publication on teaching belong here?
+
+-   Should I include the name of my *undergrad* mentee? (privacy issue with undergrad?)
+:::

@@ -1,30 +1,79 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Click here to download a PDF copy of my curriculum vitae ."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Raphael Morsomme",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "When not creating new MCMC samplers, I enjoy playing tennis, model making and cooking. I am also a fan of Formula 1.\nEmail me at raphael.morsomme@duke.edu."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research",
+    "title": "Academic Research",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "My academic interests revolves around the development of more efficient sampling algorithms for problems with high-dimensional missing data. I have focused on stochastic epidemic models and breast cancer evolution models for which I have developed efficient block Metropolis-Hastings samplers to explore the latent space."
+  },
+  {
+    "objectID": "research.html#uniformly-ergodic-block-metropolis-hasting-sampler-for-fitting-stochastic-epidemic-models-to-incidence-data",
+    "href": "research.html#uniformly-ergodic-block-metropolis-hasting-sampler-for-fitting-stochastic-epidemic-models-to-incidence-data",
+    "title": "Academic Research",
+    "section": "Uniformly ergodic block Metropolis-Hasting sampler for fitting stochastic epidemic models to incidence data",
+    "text": "Uniformly ergodic block Metropolis-Hasting sampler for fitting stochastic epidemic models to incidence data\n\nRecipient of the Young Investigator Award, ASA Section on Statistics in Epidemiology\narXiv"
+  },
+  {
+    "objectID": "research.html#a-flexible-and-scalable-class-of-time-varying-stochastic-epidemic-models",
+    "href": "research.html#a-flexible-and-scalable-class-of-time-varying-stochastic-epidemic-models",
+    "title": "Academic Research",
+    "section": "A flexible and scalable class of time-varying stochastic epidemic models",
+    "text": "A flexible and scalable class of time-varying stochastic epidemic models\n\nPresented at the 2022 World Meeting of the International Society of Bayesian Analysis"
+  },
+  {
+    "objectID": "research.html#data-augmentation-for-increased-realism-in-modeling-breast-cancer",
+    "href": "research.html#data-augmentation-for-increased-realism-in-modeling-breast-cancer",
+    "title": "Academic Research",
+    "section": "Data augmentation for increased realism in modeling breast cancer",
+    "text": "Data augmentation for increased realism in modeling breast cancer\n\nCollaborators: Dr. Marc Ryser"
+  },
+  {
+    "objectID": "research.html#estimating-the-effect-of-mutations-in-the-ebola-virus-of-the-infection-rate",
+    "href": "research.html#estimating-the-effect-of-mutations-in-the-ebola-virus-of-the-infection-rate",
+    "title": "Academic Research",
+    "section": "Estimating the effect of mutations in the Ebola virus of the infection rate",
+    "text": "Estimating the effect of mutations in the Ebola virus of the infection rate\n\nCollaborators: Raphaelle Marie and Andrew Hollbrook"
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
-    "title": "Teaching",
+    "title": "Teaching and Mentoring",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Summer 2021 – STA101 Data Analysis and Statistical Inference, Duke University\nSummer 2022 – STA101 Data Analysis and Statistical Inference, Duke University"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching and Mentoring",
+    "section": "Teaching assistant",
+    "text": "Teaching assistant\n\n2017 – STA101, UCF\n2019 – STA440 Case studies (undergraduate)\n2020 – STA540 Case studies (masters)\n2021 – STA732 Case studies (Ph.D.)\n2022 – STA310 Generalized linear models"
+  },
+  {
+    "objectID": "teaching.html#workshop",
+    "href": "teaching.html#workshop",
+    "title": "Teaching and Mentoring",
+    "section": "Workshop",
+    "text": "Workshop\n\n2018-present – Introduction to R for , Maastricht University College (slides)"
+  },
+  {
+    "objectID": "teaching.html#mentoring",
+    "href": "teaching.html#mentoring",
+    "title": "Teaching and Mentoring",
+    "section": "Mentoring",
+    "text": "Mentoring\n\n2022 – recipient of the Outstanding Mentor of Undergraduate Research Award, Duke University Department of Statistical Science\n2021-present – academic mentor of J. Huang, recipient of the Faculty Scholars Award for Excellence in Research, the highest distinction offered by Duke University for undergraduate research\n2021-present – tutor for SPIRE Fellows Program, Duke University\n2019-2020– research mentor at Lumiere Education\n\n\n\n\n\n\n\nQuestions\n\n\n\n\nDoes the CCT belong here?\nDoes an academic publication on teaching belong here?\nShould I include the name of my undergrad mentee? (privacy issue with undergrad?)"
   }
 ]

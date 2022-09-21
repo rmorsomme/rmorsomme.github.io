@@ -1,11 +1,16 @@
 ---
-title: "Home"
+title: "Raphael Morsomme"
+about:
+  template: trestles
+  image: images/raphael.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/rmorsomme
 ---
 
-This is a Quarto website.
+I am a Bayesian statistician, currently a Ph.D. candidate in statistics at Duke University under the supervision of Dr. Jason Xu. I develop efficient **Markov Chain Monte Carlo algorithms** for problems characterized by **high-dimensional missing data** with applications in epidemiology and medicine.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+When not creating new MCMC samplers, I enjoy playing tennis, model making and cooking. I am also a fan of Formula 1.
 
-```{r}
-1 + 1
-```
+Email me at `raphael.morsomme@duke.edu`.

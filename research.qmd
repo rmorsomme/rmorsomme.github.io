@@ -1,9 +1,23 @@
 ---
-title: "Research"
+title: "Academic Research"
 ---
 
-About this site
+My academic interests revolves around the development of more efficient sampling algorithms for problems with high-dimensional missing data. I have focused on stochastic epidemic models and breast cancer evolution models for which I have developed efficient block Metropolis-Hastings samplers to explore the latent space.
 
-```{r}
-1 + 1
-```
+## Uniformly ergodic block Metropolis-Hasting sampler for fitting stochastic epidemic models to incidence data
+
+-   Recipient of the Young Investigator Award, ASA Section on Statistics in Epidemiology
+
+-   [arXiv](https://arxiv.org/pdf/2201.09722)
+
+## A flexible and scalable class of time-varying stochastic epidemic models
+
+-   Presented at the 2022 World Meeting of the International Society of Bayesian Analysis
+
+## Data augmentation for increased realism in modeling breast cancer
+
+-   Collaborators: Dr. Marc Ryser
+
+## Estimating the effect of mutations in the Ebola virus of the infection rate
+
+-   Collaborators: Raphaelle Marie and Andrew Hollbrook
