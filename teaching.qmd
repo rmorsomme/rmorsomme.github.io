@@ -1,6 +1,8 @@
 ---
-title: "Teaching and Mentoring"
+#title: "Teaching and mentoring"
 ---
+
+## Teaching statement
 
 As a teacher, I try to take students to the next step of their statistical education. I have had the chance to teach STA101 Introduction to Statistics and Data Science twice. Students enrolled in STA101 typically come from other departments and take the class as an elective. Often, this is the only stats class that they will ever take. My overarching goal when I taught STA101 is to have students be able to conduct simple data analyses and be critical consumers of statistical analyses. To accomplish this, I decided to replace the midterm exam by a data analysis project. The class used to have a data analysis group project during the last week. I wanted students to have the opportunity to practice once before this assignment; I therefore decided to incorporate a mid-term group project in which students had to construct a multivariate linear model for forecasting. To foster critical thinking, each students has to critically review the work of another group. This midterm project led me to re-order the topics covered in the course. Once the fundamental concepts of statistics and data analysis are covered, I immediately start with the material on linear regression, covering topics that will be useful for the midterm prediction project such as feature engineering, overfitting and model selection. This contrasts with the typical STA101 course in which linear regression is typically covered at the end of the course, after hypothesis testing and confidence interval.
 
@@ -12,7 +14,9 @@ To broaden my teaching experience, I have asked my department to teach an interm
 
 Other ideas:
 
-treat students like responsible adults; do not want the class to be infantalizing emphasize active learning with in-class activities and two oral presentations in STA101, I focus on the reason behind fundamental concept such as hypothesis tests, confidence intervals and p-value. I therefore opted for a textbook (Intro to modern stats, by Mine) that focuses on computational methods such as randomization tests which make the concept of a p-value much more transparent than a t-test based on the central limit theorem.
+treat students like responsible adults; do not want the class to be infantalizing
+
+emphasize active learning with in-class activities and two oral presentations in STA101, I focus on the reason behind fundamental concept such as hypothesis tests, confidence intervals and p-value. I therefore opted for a textbook (Intro to modern stats, by Mine) that focuses on computational methods such as randomization tests which make the concept of a p-value much more transparent than a t-test based on the central limit theorem.
 
 ## Certifications
 
@@ -49,5 +53,3 @@ treat students like responsible adults; do not want the class to be infantalizin
 -   2021-present -- tutor for the SPIRE Fellows Program, Duke University
 
 -   2019-2020 -- research mentor at Lumiere Education
-
--   

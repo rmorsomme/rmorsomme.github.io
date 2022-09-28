@@ -1,5 +1,5 @@
 ---
-title: "Academic Research"
+#title: "Academic Research"
 ---
 
 My academic interests revolves around the development of more efficient sampling algorithms for problems with high-dimensional missing data. I have focused on stochastic epidemic models and breast cancer evolution models for which I have developed efficient block Metropolis-Hastings samplers to explore the latent space. Before my Ph.D., I developed a course recommender system for a Liberal Arts college and employed conformal prediction for grade prediction.
@@ -19,7 +19,7 @@ My academic interests revolves around the development of more efficient sampling
 |                                                       |                                                                                                                                                                                                   |
 |                                                       | -   Collaborators: Dr. Marc Ryser                                                                                                                                                                 |
 +-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                                       | **Estimating the effect of mutations in the Ebola virus of the infection rate**                                                                                                                   |
+| ![](images/ebola2018.jpg){width="500"}                | **Estimating the effect of mutations in the Ebola virus of the infection rate**                                                                                                                   |
 |                                                       |                                                                                                                                                                                                   |
 |                                                       | -   Collaborators: Dr. Raphaelle Klitting and Dr. Andrew Hollbrook                                                                                                                                |
 +-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
