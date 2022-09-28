@@ -1,0 +1,10 @@
+
+::: {layout-nrow="2"}
+![](images/E6_no_burn_beta_acf_single.jpg){fig-align="center" width="250"}
+
+![](images/E6_no_burn_beta_acf_joint.jpg){fig-align="center" width="250"}
+
+![Single-site sampler](images/E6_no_burn_beta_tp_single.jpg){fig-align="center" width="250"}
+
+![Block sampler](images/E6_no_burn_beta_tp_joint.jpg){fig-align="center" width="250"}
+:::

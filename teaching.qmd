@@ -2,7 +2,23 @@
 title: "Teaching and Mentoring"
 ---
 
-## Teaching
+As a teacher, I try to take students to the next step of their statistical education. I have had the chance to teach STA101 Introduction to Statistics and Data Science twice. Students enrolled in STA101 typically come from other departments and take the class as an elective. Often, this is the only stats class that they will ever take. My overarching goal when I taught STA101 is to have students be able to conduct simple data analyses and be critical consumers of statistical analyses. To accomplish this, I decided to replace the midterm exam by a data analysis project. The class used to have a data analysis group project during the last week. I wanted students to have the opportunity to practice once before this assignment; I therefore decided to incorporate a mid-term group project in which students had to construct a multivariate linear model for forecasting. To foster critical thinking, each students has to critically review the work of another group. This midterm project led me to re-order the topics covered in the course. Once the fundamental concepts of statistics and data analysis are covered, I immediately start with the material on linear regression, covering topics that will be useful for the midterm prediction project such as feature engineering, overfitting and model selection. This contrasts with the typical STA101 course in which linear regression is typically covered at the end of the course, after hypothesis testing and confidence interval.
+
+As an instructor, I also want students to spend more time learning the material than optimize the grade they receive on . To accomplish this, lectures are superseded with in-class activities; I rarely talk for more than 15 minutes without. These activities usually consist in multiple choice and open-ended questions and simple coding exercises and are done in groups or individually depending on what is most appropriate.
+
+I also try to make it as easy as possible for my students to access the material needed for the class. To this end, I created a user-friendly course website that serves as a one-stop shop with lecture material, labs assignments, rubrics, the syllabus and a link to the platform used for assessment submission.
+
+To broaden my teaching experience, I have asked my department to teach an intermediate class the coming summer, which will either be linear regression or probability theory. In contrast to STA101, here students that are enrolled will be pursuing a major or minor in statistics and will follow up with more advanced courses such as generalized linear models or statistical inference. My goal in these intermediate class will therefore be to make students ready to excel in these advanced classes. To this end, I will attempt to make them familiar with the statistical concepts and techniques that are important in future classes.
+
+Other ideas:
+
+treat students like responsible adults; do not want the class to be infantalizing emphasize active learning with in-class activities and two oral presentations in STA101, I focus on the reason behind fundamental concept such as hypothesis tests, confidence intervals and p-value. I therefore opted for a textbook (Intro to modern stats, by Mine) that focuses on computational methods such as randomization tests which make the concept of a p-value much more transparent than a t-test based on the central limit theorem.
+
+## Certifications
+
+-   Currently enrolled in the Certificate in College Teaching, Duke University
+
+## Instructor of record
 
 -   Summer 2021 -- STA101 Data Analysis and Statistical Inference, Duke University
 
@@ -10,7 +26,7 @@ title: "Teaching and Mentoring"
 
 ## Teaching assistant
 
--   2017 -- STA101, UCF
+-   2017 -- STA101, University College Freiburg
 
 -   2019 -- STA440 Case studies (undergraduate)
 
@@ -22,7 +38,7 @@ title: "Teaching and Mentoring"
 
 ## Workshop
 
--   2018-present -- Introduction to `R` for , Maastricht University College ([slides](/documents/Intro to R.html))
+-   2018-present -- Introduction to `R`, Maastricht University College ([slides](/documents/Intro%20to%20R.html))
 
 ## Mentoring
 
@@ -30,16 +46,8 @@ title: "Teaching and Mentoring"
 
 -   2021-present -- academic mentor of J. Huang, recipient of the Faculty Scholars Award for Excellence in Research, the highest distinction offered by Duke University for undergraduate research
 
--   2021-present -- tutor for SPIRE Fellows Program, Duke University
+-   2021-present -- tutor for the SPIRE Fellows Program, Duke University
 
--   2019-2020-- research mentor at Lumiere Education
+-   2019-2020 -- research mentor at Lumiere Education
 
-::: callout-important
-## Questions
-
--   Does the CCT belong here?
-
--   Does an academic publication on teaching belong here?
-
--   Should I include the name of my *undergrad* mentee? (privacy issue with undergrad?)
-:::
+-   

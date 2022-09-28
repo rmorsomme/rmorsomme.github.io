@@ -4,13 +4,17 @@ about:
   template: trestles
   image: images/raphael.jpg
   links:
+    - icon: envelope
+#     text: Email
+      href: mailto:raphael.morsomme@duke.edu
     - icon: github
-      text: Github
+#     text: Github
       href: https://github.com/rmorsomme
+    - text: Google Scholar
+#     icon: google-scholar
+      href: https://scholar.google.com/citations?user=6DZTZJYAAAAJ&hl=en
 ---
 
-I am a Bayesian statistician, currently a Ph.D. candidate in statistics at Duke University under the supervision of Dr. Jason Xu. I develop efficient **Markov Chain Monte Carlo algorithms** for problems characterized by **high-dimensional missing data** with applications in epidemiology and medicine.
+I am a Bayesian statistician, currently a Ph.D. candidate in statistics at Duke University under the supervision of Dr. Jason Xu. I develop efficient **Markov Chain Monte Carlo algorithms** for problems characterized by **high-dimensional missing data** with applications in epidemiology and medicine. I have taught STA101 Data Analysis and Statistical Inference in Summer 2021 and Summer 2022 and have also been mentoring an undergraduate student.
 
-When not creating new MCMC samplers, I enjoy playing tennis, model making and cooking. I am also a fan of Formula 1.
-
-Email me at `raphael.morsomme@duke.edu`.
+When not designing new MCMC samplers, I enjoy playing tennis, model making and cooking. I am also a fan of Formula 1.

@@ -2,4 +2,4 @@
 title: "Curriculum Vitae"
 ---
 
-[**Click here**](/documents/cv.pdf) **to download a PDF copy of my curriculum vitae .**
+[**Click here**](/documents/cv.pdf) **to download a PDF copy of my curriculum vitae.**

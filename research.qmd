@@ -2,22 +2,40 @@
 title: "Academic Research"
 ---
 
-My academic interests revolves around the development of more efficient sampling algorithms for problems with high-dimensional missing data. I have focused on stochastic epidemic models and breast cancer evolution models for which I have developed efficient block Metropolis-Hastings samplers to explore the latent space.
+My academic interests revolves around the development of more efficient sampling algorithms for problems with high-dimensional missing data. I have focused on stochastic epidemic models and breast cancer evolution models for which I have developed efficient block Metropolis-Hastings samplers to explore the latent space. Before my Ph.D., I developed a course recommender system for a Liberal Arts college and employed conformal prediction for grade prediction.
 
-## Uniformly ergodic block Metropolis-Hasting sampler for fitting stochastic epidemic models to incidence data
-
--   Recipient of the Young Investigator Award, ASA Section on Statistics in Epidemiology
-
--   [arXiv](https://arxiv.org/pdf/2201.09722)
-
-## A flexible and scalable class of time-varying stochastic epidemic models
-
--   Presented at the 2022 World Meeting of the International Society of Bayesian Analysis
-
-## Data augmentation for increased realism in modeling breast cancer
-
--   Collaborators: Dr. Marc Ryser
-
-## Estimating the effect of mutations in the Ebola virus of the infection rate
-
--   Collaborators: Raphaelle Marie and Andrew Hollbrook
++-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/pdsir.jpg){width="500"}                    | **Uniformly ergodic block Metropolis-Hasting sampler for fitting stochastic epidemic models to incidence data**                                                                                   |
+|                                                       |                                                                                                                                                                                                   |
+|                                                       | -   Recipient of the Young Investigator Award, ASA Section on Statistics in Epidemiology                                                                                                          |
+|                                                       |                                                                                                                                                                                                   |
+|                                                       | -   [arXiv](https://arxiv.org/pdf/2201.09722)                                                                                                                                                     |
++-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/spaghetti.jpg){width="500"}                | **A flexible and scalable class of time-varying stochastic epidemic models**                                                                                                                      |
+|                                                       |                                                                                                                                                                                                   |
+|                                                       | -   Presented at the 2022 World Meeting of the International Society of Bayesian Analysis                                                                                                         |
++-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                       | **Data augmentation for increased realism in modeling breast cancer**                                                                                                                             |
+|                                                       |                                                                                                                                                                                                   |
+|                                                       | -   Collaborators: Dr. Marc Ryser                                                                                                                                                                 |
++-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                       | **Estimating the effect of mutations in the Ebola virus of the infection rate**                                                                                                                   |
+|                                                       |                                                                                                                                                                                                   |
+|                                                       | -   Collaborators: Dr. Raphaelle Klitting and Dr. Andrew Hollbrook                                                                                                                                |
++-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/teaching.jpg){width="500"}                 | **Designing STA101 for an accelerated summer session**                                                                                                                                            |
+|                                                       |                                                                                                                                                                                                   |
+|                                                       | -   Collaborator: Dr. Alexander Fisher                                                                                                                                                            |
++-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/Course%20Recommendations.png){width="500"} | **Content-Based Course Recommender System for Liberal Arts Education**                                                                                                                            |
+|                                                       |                                                                                                                                                                                                   |
+|                                                       | -   Collaborators: Sofia Vazquez Alferez                                                                                                                                                          |
+|                                                       |                                                                                                                                                                                                   |
+|                                                       | -   Published in the Proceedings of The 12th International Conference on Educational Data Mining ([.pdf](https://files.eric.ed.gov/fulltext/ED599195.pdf))                                        |
++-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/conformal-error.jpeg){width="500"}         | **Conformal Prediction for Students' Grades in a Course Recommender System**                                                                                                                      |
+|                                                       |                                                                                                                                                                                                   |
+|                                                       | -   Collaborator: Dr. Evgueni Smirnov                                                                                                                                                             |
+|                                                       |                                                                                                                                                                                                   |
+|                                                       | -   Published in the Proceedings of the Eighth Symposium on Conformal and Probabilistic Prediction and Applications, 2019 ([.pdf](http://proceedings.mlr.press/v105/morsomme19a/morsomme19a.pdf)) |
++-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
