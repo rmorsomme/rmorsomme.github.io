@@ -14,10 +14,10 @@ website:
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
     left: "&copy; Copyright 2022, Raphael Morsomme"
-    background: "#D9E3E4"
+    background: "#DFE1E9"
 
   navbar:
-    background: "#D9E3E4"
+    background: "#DFE1E9"
     left:
       - href: index.qmd
         text: Home

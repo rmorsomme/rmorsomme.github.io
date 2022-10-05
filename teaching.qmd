@@ -18,9 +18,10 @@ treat students like responsible adults; do not want the class to be infantalizin
 
 emphasize active learning with in-class activities and two oral presentations in STA101, I focus on the reason behind fundamental concept such as hypothesis tests, confidence intervals and p-value. I therefore opted for a textbook (Intro to modern stats, by Mine) that focuses on computational methods such as randomization tests which make the concept of a p-value much more transparent than a t-test based on the central limit theorem.
 
-## Certifications
+## Certifications and training
 
 -   Currently enrolled in the Certificate in College Teaching, Duke University
+-   2022 -- summer course design workshop
 
 ## Instructor of record
 
