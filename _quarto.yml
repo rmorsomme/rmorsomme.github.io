@@ -8,8 +8,8 @@ website:
   site-url: "https://rmorsomme.github.io/rmorsomme/"
   description: "Personal website of Raphaël Morsomme"
 
-  repo-url: https://github.com/rmorsomme/rmorsomme
-  repo-actions: [edit, issue]
+#  repo-url: https://github.com/rmorsomme/rmorsomme
+#  repo-actions: [edit, issue]
 
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
@@ -23,8 +23,8 @@ website:
         text: Home
       - href: research.qmd
         text: Academic research
-#      - href: teaching.qmd
-#        text: Teaching and mentoring
+      - href: teaching.qmd
+        text: Teaching and mentoring
       - href: CV.qmd
         text: Curriculum vitae
 #    right:
