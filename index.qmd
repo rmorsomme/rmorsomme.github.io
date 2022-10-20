@@ -15,6 +15,8 @@ about:
       href: https://scholar.google.com/citations?user=6DZTZJYAAAAJ&hl=en
 ---
 
-I am a Bayesian statistician, currently a Ph.D. candidate in statistics at Duke University under the supervision of Dr. Jason Xu. I develop efficient **Markov Chain Monte Carlo algorithms** for problems characterized by **high-dimensional missing data** with applications in epidemiology and medicine. I taught STA101 Data Analysis and Statistical Inference in Summer 2021 and Summer 2022 and am also mentoring an undergraduate student.
+I am a Bayesian statistician, currently a Ph.D. candidate in statistics at Duke University under the supervision of Dr. Jason Xu. I develop efficient **Markov Chain Monte Carlo algorithms** for problems characterized by **high-dimensional missing data** with applications in epidemiology and medicine.
+
+I taught STA101 Data Analysis and Statistical Inference in Summer 2021 and Summer 2022 and am also mentoring Jenny Huang, an undergraduate student in statistics.
 
 When not designing new MCMC samplers, I enjoy playing tennis, model making and cooking. I am also a fan of Formula 1.

@@ -22,11 +22,11 @@ website:
       - href: index.qmd
         text: Home
       - href: research.qmd
-        text: Academic research
+        text: Research
       - href: teaching.qmd
         text: Teaching and mentoring
       - href: CV.qmd
-        text: Curriculum vitae
+        text: CV
 #    right:
 #      - icon: github
 #        menu:
