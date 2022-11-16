@@ -1,4 +1,3 @@
-
 ::: {layout-nrow="2"}
 ![](images/E6_no_burn_beta_acf_single.jpg){fig-align="center" width="250"}
 
