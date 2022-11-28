@@ -23,8 +23,8 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: teaching.qmd
-        text: Teaching and mentoring
+#      - href: teaching.qmd
+#        text: Teaching and mentoring
       - href: CV.qmd
         text: CV
 #    right:
