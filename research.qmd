@@ -5,11 +5,11 @@
 My academic interests revolve around the development of efficient sampling algorithms for problems characterized by high-dimensional missing data. I have focused on stochastic epidemic models and breast cancer models for which I have developed Metropolis-Hastings samplers that efficiently explore the high-dimensional latent space. Before my Ph.D., I developed a content-based course recommender system for students of a Liberal Arts college and employed conformal prediction for course grade prediction.
 
 +--------------------------------------------------------+--------------------------------------------------------------------------------------------------+
-| ![](images/pdsir.jpg){width="1500"}                    | **Exact Inference for Stochastic Epidemic Models via Uniformly Ergodic Block Sampling**          |
+| ![](images/pdsir.jpg){width="1500"}                    | **Exact inference for stochastic epidemic models via uniformly ergodic block sampling**          |
 |                                                        |                                                                                                  |
 |                                                        | -   Recipient of the Young Investigator Award, ASA Section on Statistics in Epidemiology         |
 |                                                        | -   Presented at the 2021 Joint Statistical Meeting                                              |
-|                                                        | -   Collaborator: Dr Jason Xu                                                                    |
+|                                                        | -   Collaborator: Dr. Jason Xu                                                                   |
 |                                                        | -   [arXiv](https://arxiv.org/abs/2201.09722), [R package](https://github.com/rmorsomme/PDSIR)   |
 +--------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | ![](images/ebola2018.jpg){width="1500"}                | **A flexible and scalable class of time-varying stochastic epidemic models**                     |
@@ -30,19 +30,15 @@ My academic interests revolve around the development of efficient sampling algor
 |                                                        |                                                                                                  |
 |                                                        | -   Collaborator: Dr. Alexander Fisher                                                           |
 +--------------------------------------------------------+--------------------------------------------------------------------------------------------------+
-| ![](images/Course%20Recommendations.png){width="1500"} | **Content-Based Course Recommender System for Liberal Arts Education**                           |
+| ![](images/Course%20Recommendations.png){width="1500"} | **Content-based course recommender system for liberal arts education**                           |
 |                                                        |                                                                                                  |
 |                                                        | -   Collaborators: Sofia Vazquez Alferez and Dr. Evgueni Smirnov                                 |
-|                                                        |                                                                                                  |
 |                                                        | -   Presented at the 2019 International Conference on Educational Data Mining                    |
-|                                                        |                                                                                                  |
 |                                                        | -   [URL](https://files.eric.ed.gov/fulltext/ED599195.pdf)                                       |
 +--------------------------------------------------------+--------------------------------------------------------------------------------------------------+
-| ![](images/conformal-error.jpeg){width="1500"}         | **Conformal Prediction for Students' Grades in a Course Recommender System**                     |
+| ![](images/conformal-error.jpeg){width="1500"}         | **Conformal prediction for students' grades in a course recommender system**                     |
 |                                                        |                                                                                                  |
 |                                                        | -   Collaborator: Dr. Evgueni Smirnov                                                            |
-|                                                        |                                                                                                  |
 |                                                        | -   Presented at the 2019 Symposium on Conformal and Probabilistic Prediction and Applications   |
-|                                                        |                                                                                                  |
 |                                                        | -   [URL](http://proceedings.mlr.press/v105/morsomme19a/morsomme19a.pdf)                         |
 +--------------------------------------------------------+--------------------------------------------------------------------------------------------------+
