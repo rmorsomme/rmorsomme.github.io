@@ -2,11 +2,11 @@
 #title: "Academic Research"
 ---
 
-My academic interests revolve around the development of efficient sampling algorithms for problems characterized by high-dimensional missing data. I have focused on stochastic epidemic models and breast cancer models for which I have developed Metropolis-Hastings samplers that efficiently explore the high-dimensional latent space. Before my Ph.D., I developed a content-based course recommender system for students of a Liberal Arts college and employed conformal prediction for course grade prediction.
+My academic interests revolve around the development of efficient sampling algorithms for problems characterized by high-dimensional missing data. I have focused on stochastic epidemic models and breast cancer models for which I have developed Metropolis-Hastings samplers that efficiently explore the high-dimensional latent space. Before my Ph.D., I developed a content-based course recommender system for students of a Liberal Arts college which was based on a topic model of course content and conformal prediction of course grades.
 
 +--------------------------------------------------------+--------------------------------------------------------------------------------------------------+
-| ![](images/pdsir.jpg){width="1500"}                    | **Exact inference for stochastic epidemic models via uniformly ergodic block sampling**          |
-|                                                        |                                                                                                  |
+| ![](images/block.png)\                                 | **Exact inference for stochastic epidemic models via uniformly ergodic block sampling**          |
+| ![](images/single-site.png)                            |                                                                                                  |
 |                                                        | -   Recipient of the Young Investigator Award, ASA Section on Statistics in Epidemiology         |
 |                                                        | -   Presented at the 2021 Joint Statistical Meeting                                              |
 |                                                        | -   Collaborator: Dr. Jason Xu                                                                   |
@@ -19,7 +19,7 @@ My academic interests revolve around the development of efficient sampling algor
 +--------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | ![](images/changepoint.png){width="1500"}              | **Detecting changes in the transmission rate of a stochastic epidemic model**                    |
 |                                                        |                                                                                                  |
-|                                                        | -   Collaborator: Jenny Huang, Prof. David Dunson, Dr Jason Xu                                   |
+|                                                        | -   Collaborator: Jenny Huang, Prof. David Dunson, Dr. Jason Xu                                  |
 |                                                        | -   [arXiv](https://arxiv.org/abs/2211.14691)                                                    |
 +--------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 | ![](images/breast-cancer.png){width="1500"}            | **Estimating breast cancer overdiagnosis rate with a realistic, non-Markovian biological model** |
