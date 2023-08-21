@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  page-navigation: true
+  #page-navigation: true
+  search: false
   title: "Raphaël Morsomme"
   site-url: "https://rmorsomme.github.io/rmorsomme/"
   description: "Personal website of Raphaël Morsomme"
@@ -14,10 +15,12 @@ website:
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
     left: "&copy; Copyright 2022, Raphaël Morsomme"
-    background: "#DFE1E9"
+    background: "#D96846"
+    foreground: "#2F3020"  # '#596239'
 
   navbar:
-    background: "#DFE1E9"
+    background: "#D96846"
+    foreground: "#2F3020"
     left:
       - href: index.qmd
         text: Home
@@ -27,6 +30,9 @@ website:
 #        text: Teaching and mentoring
       - href: CV.qmd
         text: CV
+    right:
+      - icon: envelope
+        href: mailto:raphael.morsomme@duke.edu
 #    right:
 #      - icon: github
 #        menu:
@@ -38,14 +44,18 @@ website:
 
 format:
   html:
-    theme:
-      light: [cosmo, theme.scss]
-      dark: [cosmo, theme-dark.scss]
+    theme: [cosmo, theme.scss]
+    #theme:
+      #light: [cosmo, theme.scss]
+      #dark: [cosmo, theme-dark.scss]
     mainfont: "Atkinson Hyperlegible"
+    fontcolor: "#2F3020"
     code-copy: true
     code-overflow: wrap
     toc: true
     link-external-newwindow: true
+    search: false
+    backgroundcolor: "#CDCBD6"
 
 freeze: auto
 
