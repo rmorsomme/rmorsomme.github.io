@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rmorsomme.github.io/rmorsomme/about.html</loc>
-    <lastmod>2023-08-21T19:37:32.910Z</lastmod>
-  </url>
-  <url>
     <loc>https://rmorsomme.github.io/rmorsomme/CV.html</loc>
-    <lastmod>2023-08-21T19:37:34.354Z</lastmod>
+    <lastmod>2023-08-28T12:08:51.617Z</lastmod>
   </url>
   <url>
     <loc>https://rmorsomme.github.io/rmorsomme/figure-pdsir.html</loc>
-    <lastmod>2023-08-21T19:37:35.744Z</lastmod>
+    <lastmod>2023-08-28T12:07:25.327Z</lastmod>
   </url>
   <url>
     <loc>https://rmorsomme.github.io/rmorsomme/index.html</loc>
-    <lastmod>2023-08-21T19:51:03.067Z</lastmod>
+    <lastmod>2023-08-28T12:07:26.070Z</lastmod>
   </url>
   <url>
     <loc>https://rmorsomme.github.io/rmorsomme/research.html</loc>
-    <lastmod>2023-08-21T19:51:13.945Z</lastmod>
+    <lastmod>2023-08-28T12:08:53.506Z</lastmod>
   </url>
   <url>
     <loc>https://rmorsomme.github.io/rmorsomme/teaching.html</loc>
-    <lastmod>2023-08-21T19:37:40.130Z</lastmod>
+    <lastmod>2023-08-28T12:07:28.024Z</lastmod>
   </url>
 </urlset>

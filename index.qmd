@@ -7,14 +7,18 @@ about:
     - icon: envelope
 #     text: Email
       href: mailto:raphael.morsomme@duke.edu
+      aria-label: Email
     - icon: github
 #     text: Github
       href: https://github.com/rmorsomme
+      aria-label: Github
     - text: Google Scholar
 #     icon: google-scholar
       href: https://scholar.google.com/citations?user=6DZTZJYAAAAJ&hl=en
+    - text: Orcid
+#     icon: google-scholar
+      href: https://orcid.org/0000-0002-7421-6977
 ---
-
 
 I am a Bayesian statistician, currently a Ph.D. candidate in statistical science at Duke University under the supervision of Dr. Jason Xu. I develop efficient **Markov Chain Monte Carlo algorithms** for problems characterized by **high-dimensional missing data** with applications in contagious disease modeling, oncology and clinical studies.
 

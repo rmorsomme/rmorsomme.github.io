@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Raphaël Morsomme",
+    "section": "",
+    "text": "Click here to download a PDF copy of my curriculum vitae."
+  },
+  {
+    "objectID": "figure-pdsir.html",
+    "href": "figure-pdsir.html",
+    "title": "Raphaël Morsomme",
+    "section": "",
+    "text": "Single-site sampler\n\n\n\n\n\n\n\nBlock sampler"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Raphaël Morsomme",
+    "section": "",
+    "text": "I am a Bayesian statistician, currently a Ph.D. candidate in statistical science at Duke University under the supervision of Dr. Jason Xu. I develop efficient Markov Chain Monte Carlo algorithms for problems characterized by high-dimensional missing data with applications in contagious disease modeling, oncology and clinical studies.\nI taught STA101 Data Analysis and Statistical Inference in Summer 2021 and Summer 2022 and am mentoring Jenny Huang (major in statistical science) and Min Chen (Masters in statistical science).\nThis summer, I am working at the National Institute of Allergy and Infectious Diseases, NIH, where I develop a Julia package that implements a MCEM algorithms for fitting semi-Markov multistate models to panel data.\nWhen not designing new MCMC samplers, I enjoy playing tennis, model making and cooking. I am also a big fan of Formula 1."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Raphaël Morsomme",
+    "section": "",
+    "text": "My academic interests revolve around the development of efficient algorithms for Bayesian inference for problems characterized by high-dimensional missing data. My work has found applications in contagious disease modelling, oncology and clinical studies. Before my Ph.D., I developed a content-based course recommender system for students of a Liberal Arts college that was based on a topic model of course content and conformal prediction of course grades.\n\n\n\n\n\nExact inference for stochastic epidemic models via uniformly ergodic block sampling\n\nRecipient of the Young Investigator Award, ASA Section on Statistics in Epidemiology\nPresented at the 2021 Joint Statistical Meeting\nCollaborator: Dr. Jason Xu\narXiv, R package\n\n\n\n\nA flexible and scalable class of time-varying stochastic epidemic models\n\nPresented at the 2022 World Meeting of the International Society of Bayesian Analysis\nCollaborator: Dr Jason Xu, Dr. Raphaelle Klitting, Dr. Andrew Hollbrook\n\n\n\n\nDetecting changes in the transmission rate of a stochastic epidemic model\n\nCollaborator: Jenny Huang, Prof. David Dunson, Dr. Jason Xu\narXiv\n\n\n\n\nEstimating breast cancer overdiagnosis rate with a realistic, non-Markovian biological model\n\nCollaborators: Dr. Marc Ryser and Dr. Jason Xu\n\n\n\n\nDesigning an introductory statistics class for an accelerated summer session\n\nCollaborator: Dr. Alexander Fisher\nCourse website\n\n\n\n\nContent-based course recommender system for liberal arts education\n\nCollaborators: Sofia Vazquez Alferez and Dr. Evgueni Smirnov\nPresented at the 2019 International Conference on Educational Data Mining\nMorsomme, R., & Alferez, S. V. (2019). Content-Based Course Recommender System for Liberal Arts Education. International educational data mining society.\n\n\n\n\nConformal prediction for students’ grades in a course recommender system\n\nCollaborator: Dr. Evgueni Smirnov\nPresented at the 2019 Symposium on Conformal and Probabilistic Prediction and Applications\nMorsomme, R., & Smirnov, E. (2019, August). Conformal prediction for students' grades in a course recommender system. In Conformal and Probabilistic Prediction and Applications (pp. 196-213). PMLR."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Raphaël Morsomme",
+    "section": "",
+    "text": "As a teacher, I try to take students to the next step of their statistical education. I have had the chance to teach STA101 Introduction to Statistics and Data Science twice. Students enrolled in STA101 typically come from other departments and take the class as an elective. Often, this is the only stats class that they will ever take. My overarching goal when I taught STA101 is to have students be able to conduct simple data analyses and be critical consumers of statistical analyses. To accomplish this, I decided to replace the midterm exam by a data analysis project. The class used to have a data analysis group project during the last week. I wanted students to have the opportunity to practice once before this assignment; I therefore decided to incorporate a mid-term group project in which students had to construct a multivariate linear model for forecasting. To foster critical thinking, each students has to critically review the work of another group. This midterm project led me to re-order the topics covered in the course. Once the fundamental concepts of statistics and data analysis are covered, I immediately start with the material on linear regression, covering topics that will be useful for the midterm prediction project such as feature engineering, overfitting and model selection. This contrasts with the typical STA101 course in which linear regression is typically covered at the end of the course, after hypothesis testing and confidence interval.\nAs an instructor, I also want students to spend more time learning the material than optimize the grade they receive on . To accomplish this, lectures are superseded with in-class activities; I rarely talk for more than 15 minutes without. These activities usually consist in multiple choice and open-ended questions and simple coding exercises and are done in groups or individually depending on what is most appropriate.\nI also try to make it as easy as possible for my students to access the material needed for the class. To this end, I created a user-friendly course website that serves as a one-stop shop with lecture material, labs assignments, rubrics, the syllabus and a link to the platform used for assessment submission.\nTo broaden my teaching experience, I have asked my department to teach an intermediate class the coming summer, which will either be linear regression or probability theory. In contrast to STA101, here students that are enrolled will be pursuing a major or minor in statistics and will follow up with more advanced courses such as generalized linear models or statistical inference. My goal in these intermediate class will therefore be to make students ready to excel in these advanced classes. To this end, I will attempt to make them familiar with the statistical concepts and techniques that are important in future classes.\nOther ideas:\ntreat students like responsible adults; do not want the class to be infantalizing\nemphasize active learning with in-class activities and two oral presentations in STA101, I focus on the reason behind fundamental concept such as hypothesis tests, confidence intervals and p-value. I therefore opted for a textbook (Intro to modern stats, by Mine) that focuses on computational methods such as randomization tests which make the concept of a p-value much more transparent than a t-test based on the central limit theorem."
+  },
+  {
+    "objectID": "teaching.html#certifications-and-training",
+    "href": "teaching.html#certifications-and-training",
+    "title": "Raphaël Morsomme",
+    "section": "Certifications and training",
+    "text": "Certifications and training\n\nCurrently enrolled in the Certificate in College Teaching, Duke University\n2022 – summer course design workshop"
+  },
+  {
+    "objectID": "teaching.html#instructor-of-record",
+    "href": "teaching.html#instructor-of-record",
+    "title": "Raphaël Morsomme",
+    "section": "Instructor of record",
+    "text": "Instructor of record\n\nSummer 2021 – STA101 Data Analysis and Statistical Inference, Duke University\nSummer 2022 – STA101 Data Analysis and Statistical Inference, Duke University"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Raphaël Morsomme",
+    "section": "Teaching assistant",
+    "text": "Teaching assistant\n\n2017 – STA101, University College Freiburg\n2019 – STA440 Case studies (undergraduate)\n2020 – STA540 Case studies (masters)\n2021 – STA732 Case studies (Ph.D.)\n2022 – STA310 Generalized linear models"
+  },
+  {
+    "objectID": "teaching.html#workshop",
+    "href": "teaching.html#workshop",
+    "title": "Raphaël Morsomme",
+    "section": "Workshop",
+    "text": "Workshop\n\n2018-present – Introduction to R, Maastricht University College (slides)"
+  },
+  {
+    "objectID": "teaching.html#mentoring",
+    "href": "teaching.html#mentoring",
+    "title": "Raphaël Morsomme",
+    "section": "Mentoring",
+    "text": "Mentoring\n\n2022 – recipient of the Outstanding Mentor of Undergraduate Research Award, Duke University Department of Statistical Science\n2021-present – academic mentor of J. Huang, recipient of the Faculty Scholars Award for Excellence in Research, the highest distinction offered by Duke University for undergraduate research\n2021-present – tutor for the SPIRE Fellows Program, Duke University\n2019-2020 – research mentor at Lumiere Education"
+  }
+]

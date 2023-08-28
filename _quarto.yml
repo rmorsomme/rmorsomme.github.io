@@ -3,7 +3,6 @@ project:
   output-dir: docs
 
 website:
-  #page-navigation: true
   search: false
   title: "Raphaël Morsomme"
   site-url: "https://rmorsomme.github.io/rmorsomme/"
@@ -44,17 +43,14 @@ website:
 
 format:
   html:
-    theme: [cosmo, theme.scss]
+    #theme: [cosmo, theme.scss]
     #theme:
       #light: [cosmo, theme.scss]
       #dark: [cosmo, theme-dark.scss]
     mainfont: "Atkinson Hyperlegible"
     fontcolor: "#2F3020"
-    code-copy: true
-    code-overflow: wrap
     toc: true
     link-external-newwindow: true
-    search: false
     backgroundcolor: "#CDCBD6"
 
 freeze: auto
