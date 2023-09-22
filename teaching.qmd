@@ -4,7 +4,7 @@
 
 ## Teaching statement
 
-As a teacher, I try to take students to the next step of their statistical education. I have had the chance to teach STA101 Introduction to Statistics and Data Science twice. Students enrolled in STA101 typically come from other departments and take the class as an elective. Often, this is the only stats class that they will ever take. My overarching goal when I taught STA101 is to have students be able to conduct simple data analyses and be critical consumers of statistical analyses. To accomplish this, I decided to replace the midterm exam by a data analysis project. The class used to have a data analysis group project during the last week. I wanted students to have the opportunity to practice once before this assignment; I therefore decided to incorporate a mid-term group project in which students had to construct a multivariate linear model for forecasting. To foster critical thinking, each students has to critically review the work of another group. This midterm project led me to re-order the topics covered in the course. Once the fundamental concepts of statistics and data analysis are covered, I immediately start with the material on linear regression, covering topics that will be useful for the midterm prediction project such as feature engineering, overfitting and model selection. This contrasts with the typical STA101 course in which linear regression is typically covered at the end of the course, after hypothesis testing and confidence interval.
+As an instructor, I try to take students to the next step of their statistical education. I have had the chance to teach STA101 Introduction to Statistics and Data Science twice. Students enrolled in STA101 typically come from other departments and take the class as an elective. Often, this is the only stats class that they will ever take. My overarching goal when I taught STA101 is to have students be able to conduct simple data analyses and be critical consumers of statistical analyses. To accomplish this, I decided to replace the midterm exam by a data analysis project. The class used to have a data analysis group project during the last week. I wanted students to have the opportunity to practice once before this assignment; I therefore decided to incorporate a mid-term group project in which students had to construct a multivariate linear model for forecasting. To foster critical thinking, each students has to critically review the work of another group. This midterm project led me to re-order the topics covered in the course. Once the fundamental concepts of statistics and data analysis are covered, I immediately start with the material on linear regression, covering topics that will be useful for the midterm prediction project such as feature engineering, overfitting and model selection. This contrasts with the typical STA101 course in which linear regression is typically covered at the end of the course, after hypothesis testing and confidence interval.
 
 As an instructor, I also want students to spend more time learning the material than optimize the grade they receive on . To accomplish this, lectures are superseded with in-class activities; I rarely talk for more than 15 minutes without. These activities usually consist in multiple choice and open-ended questions and simple coding exercises and are done in groups or individually depending on what is most appropriate.
 
@@ -18,28 +18,26 @@ treat students like responsible adults; do not want the class to be infantalizin
 
 emphasize active learning with in-class activities and two oral presentations in STA101, I focus on the reason behind fundamental concept such as hypothesis tests, confidence intervals and p-value. I therefore opted for a textbook (Intro to modern stats, by Mine) that focuses on computational methods such as randomization tests which make the concept of a p-value much more transparent than a t-test based on the central limit theorem.
 
+summer session is extremely fast, 5 weeks. course eval indicated that students found that there were too many assessments. The following year, I decided to increase the importance of the two data analysis projects and decrease the importance of the final exam.
+
 ## Certifications and training
 
--   Currently enrolled in the Certificate in College Teaching, Duke University
--   2022 -- summer course design workshop
+-   Currently enrolled in the [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/), Duke University
+-   2022 -- [summer course design workshop](https://sites.duke.edu/interdisciplinary/2021/11/02/new-opportunity-summer-course-development-grants/)
 
 ## Instructor of record
 
 -   Summer 2021 -- STA101 Data Analysis and Statistical Inference, Duke University
-
 -   [Summer 2022 -- STA101 Data Analysis and Statistical Inference, Duke University](https://rmorsomme.github.io/website/)
 
 ## Teaching assistant
 
 -   2017 -- STA101, University College Freiburg
-
 -   2019 -- STA440 Case studies (undergraduate)
-
 -   2020 -- STA540 Case studies (masters)
-
 -   2021 -- STA732 Case studies (Ph.D.)
-
--   2022 -- STA310 Generalized linear models
+-   2022 -- STA310 Generalized linear models (undergraduate)
+-   2023 -- STA561 Probabilistic Machine Learning (masters)
 
 ## Workshop
 
@@ -47,10 +45,8 @@ emphasize active learning with in-class activities and two oral presentations in
 
 ## Mentoring
 
--   2022 -- recipient of the Outstanding Mentor of Undergraduate Research Award, Duke University Department of Statistical Science
-
--   2021-present -- academic mentor of J. Huang, recipient of the Faculty Scholars Award for Excellence in Research, the highest distinction offered by Duke University for undergraduate research
-
--   2021-present -- tutor for the SPIRE Fellows Program, Duke University
-
--   2019-2020 -- research mentor at Lumiere Education
+-   2021-present -- academic mentor of M. Chen, master's student.
+-   2022 -- recipient of the Outstanding Mentor of Undergraduate Research Award, Duke University Department of Statistical Science.
+-   2021-2023 -- academic mentor of J. Huang, recipient of the Faculty Scholars Award for Excellence in Research, the highest distinction offered by Duke University for undergraduate research.
+-   2021-present -- tutor for the SPIRE Fellows Program, Duke University.
+-   2019-2020 -- research mentor at Lumiere Education.
