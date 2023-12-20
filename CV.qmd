@@ -2,4 +2,4 @@
 #title: "Curriculum Vitae"
 ---
 
-[**Click here**](/documents/Curriculum Vitae - Raphaël Morsomme.pdf) **to download a PDF copy of my curriculum vitae.**
+[**Click here**](/documents/Curriculum%20Vitae%20-%20Raphaël%20Morsomme.pdf) **to download a PDF copy of my curriculum vitae.**

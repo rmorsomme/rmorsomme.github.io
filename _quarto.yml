@@ -27,7 +27,7 @@ website:
         text: Research
 #      - href: teaching.qmd
 #        text: Teaching and mentoring
-      - href: CV.qmd
+      - href: documents/Curriculum Vitae - Raphaël Morsomme.pdf
         text: CV
     right:
       - icon: envelope

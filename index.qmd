@@ -18,12 +18,13 @@ about:
     - text: Orcid
 #     icon: google-scholar
       href: https://orcid.org/0000-0002-7421-6977
+    - text: CV
+#     icon: google-scholar
+      href: documents/Curriculum Vitae - Raphaël Morsomme.pdf
 ---
 
-I am a Bayesian statistician, currently a Ph.D. candidate in statistical science at Duke University under the supervision of Dr. Jason Xu. I develop efficient **Markov Chain Monte Carlo algorithms** for problems characterized by **high-dimensional missing data** with applications in contagious disease modeling, oncology and clinical studies.
+I am a Bayesian statistician, currently a Ph.D. candidate in statistical science at Duke University advised by Dr. Jason Xu. I will defend in March 2024. I have developed efficient **Markov chain Monte Carlo samplers** for problems characterized by **high-dimensional missing data** with applications in contagious disease modeling, cancer natural history modeling and vaccines trials.
 
-I taught STA101 Data Analysis and Statistical Inference in Summer 2021 and Summer 2022 and am mentoring Jenny Huang (major in statistical science) and Min Chen (Masters in statistical science).
+I taught STA101 Data Analysis and Statistical Inference in 2021 and 2022 at Duke University and have mentored Jenny Huang (major in statistical science) and Min Chen (Masters in statistical science).
 
-This summer, I am working at the National Institute of Allergy and Infectious Diseases, NIH, where I develop a Julia package that implements a MCEM algorithms for fitting semi-Markov multistate models to panel data.
-
-When not designing new MCMC samplers, I enjoy playing tennis, model making and cooking. I am also a big fan of Formula 1.
+I am currently interning at the National Institute of Allergy and Infectious Diseases, NIH, where I develop a Julia package that implements a Monte Carlo EM algorithm for fitting semi-Markov multistate models to panel data, with applications in vaccines trials.
