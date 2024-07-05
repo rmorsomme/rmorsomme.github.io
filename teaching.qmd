@@ -12,8 +12,9 @@ To continuously develop my teaching skills, I have enrolled in the [Certificate 
 
 ## Certifications and training
 
--   Currently enrolled in the [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/), Duke University
--   2022 -- [summer course design workshop](https://sites.duke.edu/interdisciplinary/2021/11/02/new-opportunity-summer-course-development-grants/), Duke University
+-   Currently enrolled in the [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/), Duke University.
+-   2022 -- [summer course design workshop](https://interdisciplinary.duke.edu/opportunities/summer-course-development-grants/), Duke University.
+-   2021 – STA772 Mentoring Undergraduate STEM Research, Duke University.
 
 ## Instructor of record
 
@@ -28,15 +29,20 @@ To continuously develop my teaching skills, I have enrolled in the [Certificate 
 -   2021 -- STA732 Case studies (Ph.D.)
 -   2022 -- STA310 Generalized linear models (undergraduate)
 -   2023 -- STA561 Probabilistic Machine Learning (masters)
+-   2024 – STA863 Advanced Statistical Computing (Ph.D.)
 
 ## Workshop
 
 -   2018-present -- Introduction to `R`, Maastricht University College ([slides](/documents/Intro%20to%20R.html))
 
-## Mentoring
+## Tutoring and Mentoring
 
--   2021-present -- academic mentor of M. Chen, master's student.
--   2022 -- recipient of the Outstanding Mentor of Undergraduate Research Award, Duke University Department of Statistical Science.
--   2021-2023 -- academic mentor of J. Huang, recipient of the Faculty Scholars Award for Excellence in Research, the highest distinction offered by Duke University for undergraduate research.
--   2021-present -- tutor for the SPIRE Fellows Program, Duke University.
--   2019-2020 -- research mentor at Lumiere Education.
+-   2024 – Research mentor for the Intro to Undergrad Research in Statistical Science Workshop, Duke University.
+-   2023-present – Research mentor for the Thesis Writer's Mentoring Workshop, Duke University.
+-   2021-present -- academic mentor of M. Chen (Masters in Statistical Science).
+-   2022 -- recipient of the Outstanding Mentor of Undergraduate Research Award, Duke University.
+-   2021-2023 -- academic mentor of J. Huang (Major in Statistical Science and Computer Science), recipient of the Faculty Scholars Award for Excellence in Research, the highest distinction offered by Duke University for undergraduate research.
+-   2021-present -- academic tutor for the SPIRE Fellows Program, Duke University.
+-   2019-2020 -- research mentor, Lumiere Research Scholar Program.
+-   2020-present – private tutoring.
+
