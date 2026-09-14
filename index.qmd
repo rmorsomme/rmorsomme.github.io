@@ -23,7 +23,8 @@ about:
       href: documents/Curriculum Vitae - Raphaël Morsomme.pdf
 ---
 
-I am a Bayesian statistician and work at the U.S. Food & Drug Administration as a statistical reviewer.
+I am a Bayesian statistician, working as a statistical reviewer at the U.S. Food & Drug Administration.
+
 
 I obtained a Ph.D. in statistical science at Duke University in 2024 under the supervision of [Prof. Jason Xu](https://jasonxu90.github.io/). My doctoral research revolved around the development of efficient sampling algorithms for Bayesian inference and maximum likelihood estimation for problems characterized by high-dimensional, complex latent variables. My work has found applications in contagious disease modeling, cancer natural history modeling and vaccine trials.
 
